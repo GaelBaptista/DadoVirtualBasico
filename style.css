@@ -1,0 +1,13 @@
+
+img{
+width: 250px;
+height: 250px;
+
+}
+
+.dado{
+    display: flex;
+    padding-top: 250px;
+    justify-content: center;
+    align-items: center;
+}
